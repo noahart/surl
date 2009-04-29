@@ -1,0 +1,2 @@
+require 'surl'
+run SurlSite
